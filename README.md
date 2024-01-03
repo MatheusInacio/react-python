@@ -1,1 +1,5 @@
-# react-python
+## Getting Started
+
+```bash
+npm run dev
+```
