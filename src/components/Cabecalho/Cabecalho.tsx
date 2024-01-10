@@ -6,8 +6,8 @@ export default function Cabecalho() {
     <CabecalContainer>
       <div>
         <Logo src="/images/myteacher.png" />
+        <p>Encontre o professor perfeito!</p>
       </div>
-      <p>Encontre o professor perfeito!</p> 
     </CabecalContainer>
   );
 }
