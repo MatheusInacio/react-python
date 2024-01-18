@@ -11,6 +11,7 @@ import {
 } from "./Lista.style";
 import { Professor } from "@/@types/professor";
 import { FormatadorService } from "@/services/FormatadorService";
+import { useState } from "react";
 
 interface ListaProps {
   professores: Professor[];
