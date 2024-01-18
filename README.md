@@ -1,5 +1,8 @@
 ## Getting Started
 
+![image](https://github.com/MatheusInacio/react-python/assets/4120362/520b6da3-a864-44ea-9cb4-dc1fa7c152a1)
+
+
 Run Frontend
 ```bash
 cd frontend
